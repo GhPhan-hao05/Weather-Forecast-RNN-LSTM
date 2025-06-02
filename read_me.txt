@@ -1,0 +1,1 @@
+file pre_process chỉ để biểu diễn minh họa, tất cả được tích hợp trong phần code LSTM và RNN
